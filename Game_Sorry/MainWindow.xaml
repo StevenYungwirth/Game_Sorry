@@ -1,0 +1,246 @@
+﻿<Window x:Class="Game_Sorry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Game_Sorry"
+        mc:Ignorable="d"
+        Title="Sorry!" Height="720" Width="793">
+    <Grid>
+        <Button x:Name="startGameButton" Content="Start Game" HorizontalAlignment="Left" Margin="666,27,0,0" VerticalAlignment="Top" Width="75" Click="StartGameButton_Click"/>
+        <Button x:Name="quitGameButton" Content="Quit Game" HorizontalAlignment="Left" Margin="666,64,0,0" VerticalAlignment="Top" Width="75" Click="QuitGameButton_Click"/>
+        <Button x:Name="restartGameButton" Content="Restart Game" HorizontalAlignment="Left" Margin="666,107,0,0" VerticalAlignment="Top" Width="75" Click="RestartGameButton_Click" IsEnabled="False"/>
+        <Button x:Name="aboutButton" Content="About" HorizontalAlignment="Left" Margin="666,622,0,0" VerticalAlignment="Top" Width="75" Click="AboutButton_Click"/>
+        <Label x:Name="messageCenterLabel" Content="Message Center" HorizontalAlignment="Left" Height="28" Margin="46,577,0,0" VerticalAlignment="Top" Width="96"/>
+        <Border x:Name="messageCenterBorder" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="54" Margin="46,605,0,0" VerticalAlignment="Top" Width="557">
+            <TextBlock x:Name="messageCenterTextBlock" TextWrapping="Wrap" Text="Press Start Game" FontSize="14"/>
+        </Border>
+        <Border x:Name="gameBoardBorder" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="551" Margin="42,21,0,0" VerticalAlignment="Top" Width="550">
+            <Grid x:Name="gameGrid" Margin="0,0,-1,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Border x:Name="spaceBorder0" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="0"/>
+                <Border x:Name="spaceBorder1" BorderBrush="Black" BorderThickness="1" Grid.Column ="1" Grid.Row="0">
+                    <Polygon Points="0,0 30,15, 0,30" Stroke="Black" Fill="Red"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder2" BorderBrush="Black" BorderThickness="1" Grid.Column ="2" Grid.Row="0">
+                    <Polygon Points="0,10 30,10 30,20 0,20" Stroke="Black" Fill="Red"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder3" BorderBrush="Black" BorderThickness="1" Grid.Column ="3" Grid.Row="0">
+                    <Polygon Points="0,10 30,10 30,20 0,20" Stroke="Black" Fill="Red"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder4" BorderBrush="Red" BorderThickness="1" Grid.Column ="4" Grid.Row="0">
+                    <Ellipse Width="25" Height="25" Stroke="Black" Fill="Red"></Ellipse>
+                </Border>
+                <Border x:Name="spaceBorder5" BorderBrush="Black" BorderThickness="1" Grid.Column ="5" Grid.Row="0"/>
+                <Border x:Name="spaceBorder6" BorderBrush="Black" BorderThickness="1" Grid.Column ="6" Grid.Row="0"/>
+                <Border x:Name="spaceBorder7" BorderBrush="Black" BorderThickness="1" Grid.Column ="7" Grid.Row="0"/>
+                <Border x:Name="spaceBorder8" BorderBrush="Black" BorderThickness="1" Grid.Column ="8" Grid.Row="0"/>
+                <Border x:Name="spaceBorder9" BorderBrush="Black" BorderThickness="1" Grid.Column ="9" Grid.Row="0">
+                    <Polygon Points="0,0 30,15, 0,30" Stroke="Black" Fill="Red"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder10" BorderBrush="Black" BorderThickness="1" Grid.Column ="10" Grid.Row="0">
+                    <Polygon Points="0,10 30,10 30,20 0,20" Stroke="Black" Fill="Red"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder11" BorderBrush="Black" BorderThickness="1" Grid.Column ="11" Grid.Row="0">
+                    <Polygon Points="0,10 30,10 30,20 0,20" Stroke="Black" Fill="Red"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder12" BorderBrush="Black" BorderThickness="1" Grid.Column ="12" Grid.Row="0">
+                    <Polygon Points="0,10 30,10 30,20 0,20" Stroke="Black" Fill="Red"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder13" BorderBrush="Black" BorderThickness="1" Grid.Column ="13" Grid.Row="0">
+                    <Ellipse Width="25" Height="25" Stroke="Black" Fill="Red"></Ellipse>
+                </Border>
+                <Border x:Name="spaceBorder14" BorderBrush="Black" BorderThickness="1" Grid.Column ="14" Grid.Row="0"/>
+                <Border x:Name="spaceBorder15" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="0"/>
+                <Border x:Name="spaceBorder16" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="1">
+                    <Polygon Points="0,0 15,30, 30,0" Stroke="Black" Fill="Blue"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder17" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="2">
+                    <Polygon Points="10,0 10,30 20,30 20,0" Stroke="Black" Fill="Blue"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder18" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="3">
+                    <Polygon Points="10,0 10,30 20,30 20,0" Stroke="Black" Fill="Blue"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder19" BorderBrush="Blue" BorderThickness="1" Grid.Column ="15" Grid.Row="4">
+                    <Ellipse Width="25" Height="25" Stroke="Black" Fill="Blue"></Ellipse>
+                </Border>
+                <Border x:Name="spaceBorder20" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="5"/>
+                <Border x:Name="spaceBorder21" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="6"/>
+                <Border x:Name="spaceBorder22" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="7"/>
+                <Border x:Name="spaceBorder23" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="8"/>
+                <Border x:Name="spaceBorder24" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="9">
+                    <Polygon Points="0,0 15,30, 30,0" Stroke="Black" Fill="Blue"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder25" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="10">
+                    <Polygon Points="10,0 10,30 20,30 20,0" Stroke="Black" Fill="Blue"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder26" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="11">
+                    <Polygon Points="10,0 10,30 20,30 20,0" Stroke="Black" Fill="Blue"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder27" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="12">
+                    <Polygon Points="10,0 10,30 20,30 20,0" Stroke="Black" Fill="Blue"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder28" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="13">
+                    <Ellipse Width="25" Height="25" Stroke="Black" Fill="Blue"></Ellipse>
+                </Border>
+                <Border x:Name="spaceBorder29" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="14"/>
+                <Border x:Name="spaceBorder30" BorderBrush="Black" BorderThickness="1" Grid.Column ="15" Grid.Row="15"/>
+                <Border x:Name="spaceBorder31" BorderBrush="Black" BorderThickness="1" Grid.Column ="14" Grid.Row="15">
+                    <Polygon Points="30,30 0,15, 30,0" Stroke="Black" Fill="Green"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder32" BorderBrush="Black" BorderThickness="1" Grid.Column ="13" Grid.Row="15">
+                    <Polygon Points="0,10 30,10 30,20 0,20" Stroke="Black" Fill="Green"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder33" BorderBrush="Black" BorderThickness="1" Grid.Column ="12" Grid.Row="15">
+                    <Polygon Points="0,10 30,10 30,20 0,20" Stroke="Black" Fill="Green"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder34" BorderBrush="Green" BorderThickness="1" Grid.Column ="11" Grid.Row="15">
+                    <Ellipse Width="25" Height="25" Stroke="Black" Fill="Green"></Ellipse>
+                </Border>
+                <Border x:Name="spaceBorder35" BorderBrush="Black" BorderThickness="1" Grid.Column ="10" Grid.Row="15"/>
+                <Border x:Name="spaceBorder36" BorderBrush="Black" BorderThickness="1" Grid.Column ="9" Grid.Row="15"/>
+                <Border x:Name="spaceBorder37" BorderBrush="Black" BorderThickness="1" Grid.Column ="8" Grid.Row="15"/>
+                <Border x:Name="spaceBorder38" BorderBrush="Black" BorderThickness="1" Grid.Column ="7" Grid.Row="15"/>
+                <Border x:Name="spaceBorder39" BorderBrush="Black" BorderThickness="1" Grid.Column ="6" Grid.Row="15">
+                    <Polygon Points="30,30 0,15, 30,0" Stroke="Black" Fill="Green"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder40" BorderBrush="Black" BorderThickness="1" Grid.Column ="5" Grid.Row="15">
+                    <Polygon Points="0,10 30,10 30,20 0,20" Stroke="Black" Fill="Green"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder41" BorderBrush="Black" BorderThickness="1" Grid.Column ="4" Grid.Row="15">
+                    <Polygon Points="0,10 30,10 30,20 0,20" Stroke="Black" Fill="Green"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder42" BorderBrush="Black" BorderThickness="1" Grid.Column ="3" Grid.Row="15">
+                    <Polygon Points="0,10 30,10 30,20 0,20" Stroke="Black" Fill="Green"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder43" BorderBrush="Black" BorderThickness="1" Grid.Column ="2" Grid.Row="15">
+                    <Ellipse Width="25" Height="25" Stroke="Black" Fill="Green"></Ellipse>
+                </Border>
+                <Border x:Name="spaceBorder44" BorderBrush="Black" BorderThickness="1" Grid.Column ="1" Grid.Row="15"/>
+                <Border x:Name="spaceBorder45" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="15"/>
+                <Border x:Name="spaceBorder46" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="14">
+                    <Polygon Points="0,30 15,0, 30,30" Stroke="Black" Fill="Yellow"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder47" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="13">
+                    <Polygon Points="10,0 10,30 20,30 20,0" Stroke="Black" Fill="Yellow"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder48" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="12">
+                    <Polygon Points="10,0 10,30 20,30 20,0" Stroke="Black" Fill="Yellow"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder49" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="0" Grid.Row="11">
+                    <Ellipse Width="25" Height="25" Stroke="Black" Fill="Yellow"></Ellipse>
+                </Border>
+                <Border x:Name="spaceBorder50" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="10"/>
+                <Border x:Name="spaceBorder51" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="9"/>
+                <Border x:Name="spaceBorder52" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="8"/>
+                <Border x:Name="spaceBorder53" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="7"/>
+                <Border x:Name="spaceBorder54" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="6">
+                    <Polygon Points="0,30 15,0, 30,30" Stroke="Black" Fill="Yellow"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder55" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="5">
+                    <Polygon Points="10,0 10,30 20,30 20,0" Stroke="Black" Fill="Yellow"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder56" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="4">
+                    <Polygon Points="10,0 10,30 20,30 20,0" Stroke="Black" Fill="Yellow"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder57" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="3">
+                    <Polygon Points="10,0 10,30 20,30 20,0" Stroke="Black" Fill="Yellow"></Polygon>
+                </Border>
+                <Border x:Name="spaceBorder58" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="2">
+                    <Ellipse Width="25" Height="25" Stroke="Black" Fill="Yellow"></Ellipse>
+                </Border>
+                <Border x:Name="spaceBorder59" BorderBrush="Black" BorderThickness="1" Grid.Column ="0" Grid.Row="1"/>
+                <Border x:Name="spaceBorder60" BorderBrush="Red" BorderThickness="1" Grid.Column ="2" Grid.Row="1"/>
+                <Border x:Name="spaceBorder61" BorderBrush="Red" BorderThickness="1" Grid.Column ="2" Grid.Row="2"/>
+                <Border x:Name="spaceBorder62" BorderBrush="Red" BorderThickness="1" Grid.Column ="2" Grid.Row="3"/>
+                <Border x:Name="spaceBorder63" BorderBrush="Red" BorderThickness="1" Grid.Column ="2" Grid.Row="4"/>
+                <Border x:Name="spaceBorder64" BorderBrush="Red" BorderThickness="1" Grid.Column ="2" Grid.Row="5"/>
+                <Border x:Name="spaceBorder65" BorderBrush="Blue" BorderThickness="1" Grid.Column ="14" Grid.Row="2"/>
+                <Border x:Name="spaceBorder66" BorderBrush="Blue" BorderThickness="1" Grid.Column ="13" Grid.Row="2"/>
+                <Border x:Name="spaceBorder67" BorderBrush="Blue" BorderThickness="1" Grid.Column ="12" Grid.Row="2"/>
+                <Border x:Name="spaceBorder68" BorderBrush="Blue" BorderThickness="1" Grid.Column ="11" Grid.Row="2"/>
+                <Border x:Name="spaceBorder69" BorderBrush="Blue" BorderThickness="1" Grid.Column ="10" Grid.Row="2"/>
+                <Border x:Name="spaceBorder70" BorderBrush="Green" BorderThickness="1" Grid.Column ="13" Grid.Row="14"/>
+                <Border x:Name="spaceBorder71" BorderBrush="Green" BorderThickness="1" Grid.Column ="13" Grid.Row="13"/>
+                <Border x:Name="spaceBorder72" BorderBrush="Green" BorderThickness="1" Grid.Column ="13" Grid.Row="12"/>
+                <Border x:Name="spaceBorder73" BorderBrush="Green" BorderThickness="1" Grid.Column ="13" Grid.Row="11"/>
+                <Border x:Name="spaceBorder74" BorderBrush="Green" BorderThickness="1" Grid.Column ="13" Grid.Row="10"/>
+                <Border x:Name="spaceBorder75" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="1" Grid.Row="13"/>
+                <Border x:Name="spaceBorder76" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="2" Grid.Row="13"/>
+                <Border x:Name="spaceBorder77" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="3" Grid.Row="13"/>
+                <Border x:Name="spaceBorder78" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="4" Grid.Row="13"/>
+                <Border x:Name="spaceBorder79" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="5" Grid.Row="13"/>
+                <Border x:Name="spaceBorder80" BorderBrush="Red" BorderThickness="1" Grid.Column ="2" Grid.Row="6"/>
+                <Border x:Name="spaceBorder81" BorderBrush="Red" BorderThickness="1" Grid.Column ="3" Grid.Row="6"/>
+                <Border x:Name="spaceBorder82" BorderBrush="Red" BorderThickness="1" Grid.Column ="2" Grid.Row="7"/>
+                <Border x:Name="spaceBorder83" BorderBrush="Red" BorderThickness="1" Grid.Column ="3" Grid.Row="7"/>
+                <Border x:Name="spaceBorder84" BorderBrush="Blue" BorderThickness="1" Grid.Column ="8" Grid.Row="2"/>
+                <Border x:Name="spaceBorder85" BorderBrush="Blue" BorderThickness="1" Grid.Column ="9" Grid.Row="2"/>
+                <Border x:Name="spaceBorder86" BorderBrush="Blue" BorderThickness="1" Grid.Column ="8" Grid.Row="3"/>
+                <Border x:Name="spaceBorder87" BorderBrush="Blue" BorderThickness="1" Grid.Column ="9" Grid.Row="3"/>
+                <Border x:Name="spaceBorder88" BorderBrush="Green" BorderThickness="1" Grid.Column ="12" Grid.Row="8"/>
+                <Border x:Name="spaceBorder89" BorderBrush="Green" BorderThickness="1" Grid.Column ="12" Grid.Row="9"/>
+                <Border x:Name="spaceBorder90" BorderBrush="Green" BorderThickness="1" Grid.Column ="13" Grid.Row="8"/>
+                <Border x:Name="spaceBorder91" BorderBrush="Green" BorderThickness="1" Grid.Column ="13" Grid.Row="9"/>
+                <Border x:Name="spaceBorder92" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="7" Grid.Row="12"/>
+                <Border x:Name="spaceBorder93" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="6" Grid.Row="12"/>
+                <Border x:Name="spaceBorder94" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="6" Grid.Row="13"/>
+                <Border x:Name="spaceBorder95" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="7" Grid.Row="13"/>
+                <Border x:Name="spaceBorder96" BorderBrush="Red" BorderThickness="1" Grid.Column ="4" Grid.Row="1"/>
+                <Border x:Name="spaceBorder97" BorderBrush="Red" BorderThickness="1" Grid.Column ="4" Grid.Row="2"/>
+                <Border x:Name="spaceBorder98" BorderBrush="Red" BorderThickness="1" Grid.Column ="5" Grid.Row="1"/>
+                <Border x:Name="spaceBorder99" BorderBrush="Red" BorderThickness="1" Grid.Column ="5" Grid.Row="2"/>
+                <Border x:Name="spaceBorder100" BorderBrush="Blue" BorderThickness="1" Grid.Column ="14" Grid.Row="4"/>
+                <Border x:Name="spaceBorder101" BorderBrush="Blue" BorderThickness="1" Grid.Column ="14" Grid.Row="5"/>
+                <Border x:Name="spaceBorder102" BorderBrush="Blue" BorderThickness="1" Grid.Column ="13" Grid.Row="4"/>
+                <Border x:Name="spaceBorder103" BorderBrush="Blue" BorderThickness="1" Grid.Column ="13" Grid.Row="5"/>
+                <Border x:Name="spaceBorder104" BorderBrush="Green" BorderThickness="1" Grid.Column ="11" Grid.Row="14"/>
+                <Border x:Name="spaceBorder105" BorderBrush="Green" BorderThickness="1" Grid.Column ="11" Grid.Row="13"/>
+                <Border x:Name="spaceBorder106" BorderBrush="Green" BorderThickness="1" Grid.Column ="10" Grid.Row="14"/>
+                <Border x:Name="spaceBorder107" BorderBrush="Green" BorderThickness="1" Grid.Column ="10" Grid.Row="13"/>
+                <Border x:Name="spaceBorder108" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="1" Grid.Row="11"/>
+                <Border x:Name="spaceBorder109" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="1" Grid.Row="10"/>
+                <Border x:Name="spaceBorder110" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="2" Grid.Row="11"/>
+                <Border x:Name="spaceBorder111" BorderBrush="Yellow" BorderThickness="1" Grid.Column ="2" Grid.Row="10"/>
+            </Grid>
+        </Border>
+        <Button x:Name="drawCardButton" Content="Draw Card" HorizontalAlignment="Left" Margin="666,221,0,0" VerticalAlignment="Top" Width="75" Click="DrawCardButton_Click" IsEnabled="False"/>
+        <Label x:Name="playerTurnLabel" Content="Click Start Game" HorizontalAlignment="Left" Margin="220,274,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24"/>
+        <Button x:Name="debugButton" Content="Button" HorizontalAlignment="Left" Margin="686,274,0,0" VerticalAlignment="Top" Width="75" Click="DebugButton_Click" Visibility="Hidden"/>
+    </Grid>
+</Window>

@@ -1,0 +1,130 @@
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe.config
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.pdb
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.cache
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.lref
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.g.resources
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.Properties.Resources.resources
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.exe
+\\Mac\Home\Desktop\Personal\Continuing Education\Advanced Programming Class\Projects\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csprojAssemblyReference.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\App.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.lref
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.exe
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe.config
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.baml
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.g.resources
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.Properties.Resources.resources
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.GenerateResource.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry2\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.CoreCompileInputs.cache
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe.config
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.pdb
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csprojAssemblyReference.cache
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.g.cs
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\App.g.cs
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.cache
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.lref
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.baml
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.g.resources
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.Properties.Resources.resources
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.GenerateResource.cache
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.CoreCompileInputs.cache
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.exe
+C:\NWTC\C# - 2\New folder\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe.config
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csprojAssemblyReference.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\App.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.lref
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.baml
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.g.resources
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.Properties.Resources.resources
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.GenerateResource.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.CoreCompileInputs.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.exe
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry - cards\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe.config
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csprojAssemblyReference.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\App.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.lref
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.baml
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.g.resources
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.Properties.Resources.resources
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.GenerateResource.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.CoreCompileInputs.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.exe
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.pdb
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe.config
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.pdb
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csprojAssemblyReference.cache
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.g.cs
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\App.g.cs
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.cache
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.lref
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.baml
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.g.resources
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.Properties.Resources.resources
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.GenerateResource.cache
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.exe
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.pdb
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\Card11Prompt.g.cs
+C:\Users\sbeyer\Documents\Spring 2020 Classes\C#\Class 5\Game_Sorry(1)\Game_Sorry\Game_Sorry\obj\Debug\Card11Prompt.baml
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe.config
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csprojAssemblyReference.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Card11Prompt.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\App.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.lref
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Card11Prompt.baml
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.baml
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.g.resources
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.Properties.Resources.resources
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.GenerateResource.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.CoreCompileInputs.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.exe
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Current\Game_Sorry\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe.config
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.exe
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\bin\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csprojAssemblyReference.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Card10Prompt.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Card11Prompt.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\App.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry_MarkupCompile.lref
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Card11Prompt.baml
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\MainWindow.baml
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Card10Prompt.baml
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.g.resources
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.Properties.Resources.resources
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.GenerateResource.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.csproj.CoreCompileInputs.cache
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.exe
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Game_Sorry.pdb
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Card7Choices.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Card7Prompt.g.cs
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Card7Prompt.baml
+C:\Users\spybl\Desktop\School\C#\Game_Sorry\Game_Sorry\Game_Sorry\obj\Debug\Card7Choices.baml
